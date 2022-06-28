@@ -7,5 +7,5 @@ hdiutil convert /tmp/Monterey.dmg -format UDTO -o ~/Desktop/macos-monterey
 mv ~/Desktop/macos-monterey.cdr ~/Desktop/macos-monterey.iso
 sudo rm -fv /tmp/Monterey.dmg
 
-#source:
-# 1. https://techsviewer.com/how-to-create-macos-monterey-iso-image/
+# source:
+# https://techsviewer.com/how-to-create-macos-monterey-iso-image/
